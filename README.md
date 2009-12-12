@@ -1,4 +1,4 @@
-Ack Textmate Bundle
+Ack TextMate Bundle
 ===================
 
 Version 0.1
