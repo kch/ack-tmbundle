@@ -19,6 +19,7 @@ Run this:
 
     cd ~/Library/Application\ Support/TextMate/Bundles
     git clone git://github.com/protocool/ack-tmbundle.git Ack.tmbundle
+    osascript -e 'tell app "TextMate" to reload bundles'
 
 
 Bugs
