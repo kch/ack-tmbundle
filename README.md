@@ -5,7 +5,7 @@ Version 0.1
 
 Type command-shift-a to ack your project in TextMate... 'nuff said.  
 
-You can learn more about ack at <http://petdance.com/ack/>.
+You can learn more about ack at <http://betterthangrep.com>.
 
 Installation
 ------------
@@ -24,7 +24,7 @@ You can [file tickets for any bugs using LightHouse](http://protocool.lighthouse
 Notes
 -----
 
-The ack-standalone.sh script from <http://petdance.com/ack/> is included in this bundle.  You can use a different version of ack by setting the TM_ACK environment variable to point to your version.
+The ack-standalone.sh script from <http://betterthangrep.com> is included in this bundle.  You can use a different version of ack by setting the TM_ACK environment variable to point to your version.
 
 This bundle has only been tested against this particular version of ack-standalone.
 
