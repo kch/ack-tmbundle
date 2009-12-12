@@ -25,7 +25,7 @@ Installation
 Bugs
 ----
 
-You can [file tickets for any bugs using LightHouse](http://protocool.lighthouseapp.com/projects/15530-ack-tmbundle/home).
+You can [file tickets for any bugs using LightHouse][LightHouse].
 
 
 Notes
@@ -62,3 +62,5 @@ as below:
     # Includes some minor modifications by Max (http://max.xaok.org/webtek) 2007-08-01
     # Adds search UI plus some minor modifications by Robert Thurnher (http://soup.robert42.com) 2007-08-11
     # Further modifications by Trevor Squires (http://somethinglearned.com) 2008-05-21
+
+[LightHouse]: http://protocool.lighthouseapp.com/projects/15530-ack-tmbundle/home
