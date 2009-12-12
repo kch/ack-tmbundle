@@ -3,9 +3,14 @@ Ack Textmate Bundle
 
 Version 0.1
 
+
+Usage
+-----
+
 Type command-shift-a to ack your project in TextMate... 'nuff said.  
 
 You can learn more about ack at <http://betterthangrep.com>.
+
 
 Installation
 ------------
@@ -16,10 +21,12 @@ Installation
         cd ~/Library/Application\ Support/TextMate/Bundles
         git clone git://github.com/protocool/ack-tmbundle.git Ack.tmbundle
 
+
 Bugs
 ----
 
 You can [file tickets for any bugs using LightHouse](http://protocool.lighthouseapp.com/projects/15530-ack-tmbundle/home).
+
 
 Notes
 -----
@@ -28,12 +35,14 @@ The `ack-standalone.sh` script from <http://betterthangrep.com> is included in t
 
 This bundle has only been tested against this particular version of ack-standalone.
 
+
 Per-project `.ackrc`
 --------------------
 
 Ack normally honors the settings in your `$HOME/.ackrc` file.  Additionally, any `.ackrc` file in your project directory (`TM_PROJECT_DIRECTORY`) will also be read.
 
 You can switch-off loading of any `.ackrc` files in the 'Advanced options' drawer.
+
 
 Background
 ----------
