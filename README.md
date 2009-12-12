@@ -7,7 +7,7 @@ Version 0.1
 Usage
 -----
 
-Type ` ⌘⇧A` to ack your project in TextMate... 'nuff said.
+Type ` ⌘⇧A` to ack your project in TextMate… 'nuff said.
 
 You can learn more about ack at <http://betterthangrep.com>.
 
