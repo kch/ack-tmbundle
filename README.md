@@ -15,11 +15,10 @@ You can learn more about ack at <http://betterthangrep.com>.
 Installation
 ------------
 
+Run this:
 
-* Run this:
-
-        cd ~/Library/Application\ Support/TextMate/Bundles
-        git clone git://github.com/protocool/ack-tmbundle.git Ack.tmbundle
+    cd ~/Library/Application\ Support/TextMate/Bundles
+    git clone git://github.com/protocool/ack-tmbundle.git Ack.tmbundle
 
 
 Bugs
