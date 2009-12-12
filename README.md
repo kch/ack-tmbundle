@@ -7,7 +7,7 @@ Version 0.1
 Usage
 -----
 
-Type command-shift-a to ack your project in TextMate... 'nuff said.  
+Type ` ⌘⇧A` to ack your project in TextMate... 'nuff said.
 
 You can learn more about ack at <http://betterthangrep.com>.
 
@@ -17,7 +17,7 @@ Installation
 
 
 * Run this:
- 
+
         cd ~/Library/Application\ Support/TextMate/Bundles
         git clone git://github.com/protocool/ack-tmbundle.git Ack.tmbundle
 
